@@ -66,6 +66,20 @@
             this.instructoresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.notasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.cierresToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestiónDisciplinariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.faltasDisciplinariasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.registrarEvidenciasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.aplicarSanciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.gestiónFaltasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.asistenciaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.permisoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.evaluacionDesempeñoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.bonosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.resultadosEvaluaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.evaluacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.EXAMENToolStripmenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.mantenimientoExamenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.Pnl_inferior = new System.Windows.Forms.Panel();
             this.Pnl_Fecha = new System.Windows.Forms.Panel();
             this.Lbl_FechaActual = new System.Windows.Forms.Label();
@@ -73,20 +87,6 @@
             this.Pnl_Usuario = new System.Windows.Forms.Panel();
             this.lbl_nombreUsuario = new System.Windows.Forms.Label();
             this.Lbl_Usuario = new System.Windows.Forms.Label();
-            this.EXAMENToolStripmenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.faltasDisciplinariasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.registrarEvidenciasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.aplicarSanciónToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestiónDisciplinariaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.bonosToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.resultadosEvaluaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.evaluacionesToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.evaluacionDesempeñoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.asistenciaToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.permisoToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.gestiónFaltasToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.mantenimientoExamenToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.menuStrip1.SuspendLayout();
             this.Pnl_inferior.SuspendLayout();
             this.Pnl_Fecha.SuspendLayout();
@@ -339,35 +339,35 @@
             // postulanteToolStripMenuItem
             // 
             this.postulanteToolStripMenuItem.Name = "postulanteToolStripMenuItem";
-            this.postulanteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.postulanteToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.postulanteToolStripMenuItem.Text = "Postulante";
             this.postulanteToolStripMenuItem.Click += new System.EventHandler(this.postulanteToolStripMenuItem_Click);
             // 
             // perfilToolStripMenuItem
             // 
             this.perfilToolStripMenuItem.Name = "perfilToolStripMenuItem";
-            this.perfilToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.perfilToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.perfilToolStripMenuItem.Text = "Perfil";
             this.perfilToolStripMenuItem.Click += new System.EventHandler(this.perfilToolStripMenuItem_Click);
             // 
             // competenciaToolStripMenuItem
             // 
             this.competenciaToolStripMenuItem.Name = "competenciaToolStripMenuItem";
-            this.competenciaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.competenciaToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.competenciaToolStripMenuItem.Text = "Competencia";
             this.competenciaToolStripMenuItem.Click += new System.EventHandler(this.competenciaToolStripMenuItem_Click);
             // 
             // aTSToolStripMenuItem
             // 
             this.aTSToolStripMenuItem.Name = "aTSToolStripMenuItem";
-            this.aTSToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.aTSToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.aTSToolStripMenuItem.Text = "ATS";
             this.aTSToolStripMenuItem.Click += new System.EventHandler(this.aTSToolStripMenuItem_Click);
             // 
             // expedienteToolStripMenuItem
             // 
             this.expedienteToolStripMenuItem.Name = "expedienteToolStripMenuItem";
-            this.expedienteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.expedienteToolStripMenuItem.Size = new System.Drawing.Size(145, 22);
             this.expedienteToolStripMenuItem.Text = "Expediente";
             this.expedienteToolStripMenuItem.Click += new System.EventHandler(this.expedienteToolStripMenuItem_Click);
             // 
@@ -386,30 +386,144 @@
             // capacitacionesToolStripMenuItem1
             // 
             this.capacitacionesToolStripMenuItem1.Name = "capacitacionesToolStripMenuItem1";
-            this.capacitacionesToolStripMenuItem1.Size = new System.Drawing.Size(180, 22);
+            this.capacitacionesToolStripMenuItem1.Size = new System.Drawing.Size(154, 22);
             this.capacitacionesToolStripMenuItem1.Text = "Capacitaciones";
             this.capacitacionesToolStripMenuItem1.Click += new System.EventHandler(this.capacitacionesToolStripMenuItem1_Click);
             // 
             // instructoresToolStripMenuItem
             // 
             this.instructoresToolStripMenuItem.Name = "instructoresToolStripMenuItem";
-            this.instructoresToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.instructoresToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
             this.instructoresToolStripMenuItem.Text = "Instructores";
             this.instructoresToolStripMenuItem.Click += new System.EventHandler(this.instructoresToolStripMenuItem_Click);
             // 
             // notasToolStripMenuItem
             // 
             this.notasToolStripMenuItem.Name = "notasToolStripMenuItem";
-            this.notasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.notasToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
             this.notasToolStripMenuItem.Text = "Notas";
             this.notasToolStripMenuItem.Click += new System.EventHandler(this.notasToolStripMenuItem_Click);
             // 
             // cierresToolStripMenuItem
             // 
             this.cierresToolStripMenuItem.Name = "cierresToolStripMenuItem";
-            this.cierresToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
+            this.cierresToolStripMenuItem.Size = new System.Drawing.Size(154, 22);
             this.cierresToolStripMenuItem.Text = "Cierres ";
             this.cierresToolStripMenuItem.Click += new System.EventHandler(this.cierresToolStripMenuItem_Click);
+            // 
+            // gestiónDisciplinariaToolStripMenuItem
+            // 
+            this.gestiónDisciplinariaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.faltasDisciplinariasToolStripMenuItem});
+            this.gestiónDisciplinariaToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.gestiónDisciplinariaToolStripMenuItem.Name = "gestiónDisciplinariaToolStripMenuItem";
+            this.gestiónDisciplinariaToolStripMenuItem.Size = new System.Drawing.Size(126, 20);
+            this.gestiónDisciplinariaToolStripMenuItem.Text = "Gestión Disciplinaria";
+            // 
+            // faltasDisciplinariasToolStripMenuItem
+            // 
+            this.faltasDisciplinariasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.registrarEvidenciasToolStripMenuItem,
+            this.aplicarSanciónToolStripMenuItem});
+            this.faltasDisciplinariasToolStripMenuItem.Name = "faltasDisciplinariasToolStripMenuItem";
+            this.faltasDisciplinariasToolStripMenuItem.Size = new System.Drawing.Size(176, 22);
+            this.faltasDisciplinariasToolStripMenuItem.Text = "Faltas Disciplinarias";
+            this.faltasDisciplinariasToolStripMenuItem.Click += new System.EventHandler(this.faltasDisciplinariasToolStripMenuItem_Click);
+            // 
+            // registrarEvidenciasToolStripMenuItem
+            // 
+            this.registrarEvidenciasToolStripMenuItem.Name = "registrarEvidenciasToolStripMenuItem";
+            this.registrarEvidenciasToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.registrarEvidenciasToolStripMenuItem.Text = "Registrar evidencias";
+            this.registrarEvidenciasToolStripMenuItem.Click += new System.EventHandler(this.registrarEvidenciasToolStripMenuItem_Click);
+            // 
+            // aplicarSanciónToolStripMenuItem
+            // 
+            this.aplicarSanciónToolStripMenuItem.Name = "aplicarSanciónToolStripMenuItem";
+            this.aplicarSanciónToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
+            this.aplicarSanciónToolStripMenuItem.Text = "Aplicar sanción";
+            this.aplicarSanciónToolStripMenuItem.Click += new System.EventHandler(this.aplicarSanciónToolStripMenuItem_Click);
+            // 
+            // gestiónFaltasToolStripMenuItem
+            // 
+            this.gestiónFaltasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.asistenciaToolStripMenuItem,
+            this.permisoToolStripMenuItem});
+            this.gestiónFaltasToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.gestiónFaltasToolStripMenuItem.Name = "gestiónFaltasToolStripMenuItem";
+            this.gestiónFaltasToolStripMenuItem.Size = new System.Drawing.Size(115, 20);
+            this.gestiónFaltasToolStripMenuItem.Text = "Gestión Asistencia";
+            this.gestiónFaltasToolStripMenuItem.Click += new System.EventHandler(this.gestiónFaltasToolStripMenuItem_Click);
+            // 
+            // asistenciaToolStripMenuItem
+            // 
+            this.asistenciaToolStripMenuItem.Name = "asistenciaToolStripMenuItem";
+            this.asistenciaToolStripMenuItem.Size = new System.Drawing.Size(127, 22);
+            this.asistenciaToolStripMenuItem.Text = "Asistencia";
+            this.asistenciaToolStripMenuItem.Click += new System.EventHandler(this.asistenciaToolStripMenuItem_Click);
+            // 
+            // permisoToolStripMenuItem
+            // 
+            this.permisoToolStripMenuItem.Name = "permisoToolStripMenuItem";
+            this.permisoToolStripMenuItem.Size = new System.Drawing.Size(127, 22);
+            this.permisoToolStripMenuItem.Text = "Permiso";
+            this.permisoToolStripMenuItem.Click += new System.EventHandler(this.permisoToolStripMenuItem_Click);
+            // 
+            // evaluacionDesempeñoToolStripMenuItem
+            // 
+            this.evaluacionDesempeñoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.bonosToolStripMenuItem,
+            this.resultadosEvaluaToolStripMenuItem,
+            this.evaluacionesToolStripMenuItem,
+            this.reporteToolStripMenuItem});
+            this.evaluacionDesempeñoToolStripMenuItem.ForeColor = System.Drawing.Color.White;
+            this.evaluacionDesempeñoToolStripMenuItem.Name = "evaluacionDesempeñoToolStripMenuItem";
+            this.evaluacionDesempeñoToolStripMenuItem.Size = new System.Drawing.Size(142, 20);
+            this.evaluacionDesempeñoToolStripMenuItem.Text = "Evaluacion Desempeño";
+            // 
+            // bonosToolStripMenuItem
+            // 
+            this.bonosToolStripMenuItem.Name = "bonosToolStripMenuItem";
+            this.bonosToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.bonosToolStripMenuItem.Text = "Bonos";
+            this.bonosToolStripMenuItem.Click += new System.EventHandler(this.bonosToolStripMenuItem_Click_1);
+            // 
+            // resultadosEvaluaToolStripMenuItem
+            // 
+            this.resultadosEvaluaToolStripMenuItem.Name = "resultadosEvaluaToolStripMenuItem";
+            this.resultadosEvaluaToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.resultadosEvaluaToolStripMenuItem.Text = "Resultados Evalua.";
+            this.resultadosEvaluaToolStripMenuItem.Click += new System.EventHandler(this.resultadosEvaluaToolStripMenuItem_Click);
+            // 
+            // evaluacionesToolStripMenuItem
+            // 
+            this.evaluacionesToolStripMenuItem.Name = "evaluacionesToolStripMenuItem";
+            this.evaluacionesToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.evaluacionesToolStripMenuItem.Text = "Evaluaciones";
+            this.evaluacionesToolStripMenuItem.Click += new System.EventHandler(this.evaluacionesToolStripMenuItem_Click);
+            // 
+            // reporteToolStripMenuItem
+            // 
+            this.reporteToolStripMenuItem.Name = "reporteToolStripMenuItem";
+            this.reporteToolStripMenuItem.Size = new System.Drawing.Size(171, 22);
+            this.reporteToolStripMenuItem.Text = "Reporte";
+            this.reporteToolStripMenuItem.Click += new System.EventHandler(this.reporteToolStripMenuItem_Click);
+            // 
+            // EXAMENToolStripmenuItem
+            // 
+            this.EXAMENToolStripmenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.mantenimientoExamenToolStripMenuItem});
+            this.EXAMENToolStripmenuItem.ForeColor = System.Drawing.Color.White;
+            this.EXAMENToolStripmenuItem.Name = "EXAMENToolStripmenuItem";
+            this.EXAMENToolStripmenuItem.Size = new System.Drawing.Size(135, 20);
+            this.EXAMENToolStripmenuItem.Text = "EXAMEN2DOPARCIAL";
+            // 
+            // mantenimientoExamenToolStripMenuItem
+            // 
+            this.mantenimientoExamenToolStripMenuItem.Name = "mantenimientoExamenToolStripMenuItem";
+            this.mantenimientoExamenToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
+            this.mantenimientoExamenToolStripMenuItem.Text = "MantenimientoExamen";
+            this.mantenimientoExamenToolStripMenuItem.Click += new System.EventHandler(this.mantenimientoExamenToolStripMenuItem_Click);
             // 
             // Pnl_inferior
             // 
@@ -418,7 +532,7 @@
             this.Pnl_inferior.Controls.Add(this.Pnl_Usuario);
             this.Pnl_inferior.Dock = System.Windows.Forms.DockStyle.Bottom;
             this.Pnl_inferior.Location = new System.Drawing.Point(0, 549);
-            this.Pnl_inferior.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Pnl_inferior.Margin = new System.Windows.Forms.Padding(2);
             this.Pnl_inferior.Name = "Pnl_inferior";
             this.Pnl_inferior.Size = new System.Drawing.Size(1156, 60);
             this.Pnl_inferior.TabIndex = 1;
@@ -428,7 +542,7 @@
             this.Pnl_Fecha.Controls.Add(this.Lbl_FechaActual);
             this.Pnl_Fecha.Controls.Add(this.Lbl_Fecha);
             this.Pnl_Fecha.Location = new System.Drawing.Point(229, 8);
-            this.Pnl_Fecha.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Pnl_Fecha.Margin = new System.Windows.Forms.Padding(2);
             this.Pnl_Fecha.Name = "Pnl_Fecha";
             this.Pnl_Fecha.Size = new System.Drawing.Size(231, 41);
             this.Pnl_Fecha.TabIndex = 3;
@@ -464,7 +578,7 @@
             this.Pnl_Usuario.Controls.Add(this.lbl_nombreUsuario);
             this.Pnl_Usuario.Controls.Add(this.Lbl_Usuario);
             this.Pnl_Usuario.Location = new System.Drawing.Point(8, 8);
-            this.Pnl_Usuario.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Pnl_Usuario.Margin = new System.Windows.Forms.Padding(2);
             this.Pnl_Usuario.Name = "Pnl_Usuario";
             this.Pnl_Usuario.Size = new System.Drawing.Size(189, 41);
             this.Pnl_Usuario.TabIndex = 0;
@@ -495,119 +609,6 @@
             this.Lbl_Usuario.Text = "Usuario:";
             this.Lbl_Usuario.Click += new System.EventHandler(this.label1_Click);
             // 
-            // EXAMENToolStripmenuItem
-            // 
-            this.EXAMENToolStripmenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.mantenimientoExamenToolStripMenuItem});
-            this.EXAMENToolStripmenuItem.ForeColor = System.Drawing.Color.White;
-            this.EXAMENToolStripmenuItem.Name = "EXAMENToolStripmenuItem";
-            this.EXAMENToolStripmenuItem.Size = new System.Drawing.Size(135, 20);
-            this.EXAMENToolStripmenuItem.Text = "EXAMEN2DOPARCIAL";
-            // 
-            // faltasDisciplinariasToolStripMenuItem
-            // 
-            this.faltasDisciplinariasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.registrarEvidenciasToolStripMenuItem,
-            this.aplicarSanciónToolStripMenuItem});
-            this.faltasDisciplinariasToolStripMenuItem.Name = "faltasDisciplinariasToolStripMenuItem";
-            this.faltasDisciplinariasToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.faltasDisciplinariasToolStripMenuItem.Text = "Faltas Disciplinarias";
-            this.faltasDisciplinariasToolStripMenuItem.Click += new System.EventHandler(this.faltasDisciplinariasToolStripMenuItem_Click);
-            // 
-            // registrarEvidenciasToolStripMenuItem
-            // 
-            this.registrarEvidenciasToolStripMenuItem.Name = "registrarEvidenciasToolStripMenuItem";
-            this.registrarEvidenciasToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
-            this.registrarEvidenciasToolStripMenuItem.Text = "Registrar evidencias";
-            this.registrarEvidenciasToolStripMenuItem.Click += new System.EventHandler(this.registrarEvidenciasToolStripMenuItem_Click);
-            // 
-            // aplicarSanciónToolStripMenuItem
-            // 
-            this.aplicarSanciónToolStripMenuItem.Name = "aplicarSanciónToolStripMenuItem";
-            this.aplicarSanciónToolStripMenuItem.Size = new System.Drawing.Size(178, 22);
-            this.aplicarSanciónToolStripMenuItem.Text = "Aplicar sanción";
-            this.aplicarSanciónToolStripMenuItem.Click += new System.EventHandler(this.aplicarSanciónToolStripMenuItem_Click);
-            // 
-            // gestiónDisciplinariaToolStripMenuItem
-            // 
-            this.gestiónDisciplinariaToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.faltasDisciplinariasToolStripMenuItem});
-            this.gestiónDisciplinariaToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.gestiónDisciplinariaToolStripMenuItem.Name = "gestiónDisciplinariaToolStripMenuItem";
-            this.gestiónDisciplinariaToolStripMenuItem.Size = new System.Drawing.Size(126, 20);
-            this.gestiónDisciplinariaToolStripMenuItem.Text = "Gestión Disciplinaria";
-            // 
-            // bonosToolStripMenuItem
-            // 
-            this.bonosToolStripMenuItem.Name = "bonosToolStripMenuItem";
-            this.bonosToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.bonosToolStripMenuItem.Text = "Bonos";
-            this.bonosToolStripMenuItem.Click += new System.EventHandler(this.bonosToolStripMenuItem_Click_1);
-            // 
-            // resultadosEvaluaToolStripMenuItem
-            // 
-            this.resultadosEvaluaToolStripMenuItem.Name = "resultadosEvaluaToolStripMenuItem";
-            this.resultadosEvaluaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.resultadosEvaluaToolStripMenuItem.Text = "Resultados Evalua.";
-            this.resultadosEvaluaToolStripMenuItem.Click += new System.EventHandler(this.resultadosEvaluaToolStripMenuItem_Click);
-            // 
-            // evaluacionesToolStripMenuItem
-            // 
-            this.evaluacionesToolStripMenuItem.Name = "evaluacionesToolStripMenuItem";
-            this.evaluacionesToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.evaluacionesToolStripMenuItem.Text = "Evaluaciones";
-            this.evaluacionesToolStripMenuItem.Click += new System.EventHandler(this.evaluacionesToolStripMenuItem_Click);
-            // 
-            // reporteToolStripMenuItem
-            // 
-            this.reporteToolStripMenuItem.Name = "reporteToolStripMenuItem";
-            this.reporteToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.reporteToolStripMenuItem.Text = "Reporte";
-            this.reporteToolStripMenuItem.Click += new System.EventHandler(this.reporteToolStripMenuItem_Click);
-            // 
-            // evaluacionDesempeñoToolStripMenuItem
-            // 
-            this.evaluacionDesempeñoToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.bonosToolStripMenuItem,
-            this.resultadosEvaluaToolStripMenuItem,
-            this.evaluacionesToolStripMenuItem,
-            this.reporteToolStripMenuItem});
-            this.evaluacionDesempeñoToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.evaluacionDesempeñoToolStripMenuItem.Name = "evaluacionDesempeñoToolStripMenuItem";
-            this.evaluacionDesempeñoToolStripMenuItem.Size = new System.Drawing.Size(142, 20);
-            this.evaluacionDesempeñoToolStripMenuItem.Text = "Evaluacion Desempeño";
-            // 
-            // asistenciaToolStripMenuItem
-            // 
-            this.asistenciaToolStripMenuItem.Name = "asistenciaToolStripMenuItem";
-            this.asistenciaToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.asistenciaToolStripMenuItem.Text = "Asistencia";
-            this.asistenciaToolStripMenuItem.Click += new System.EventHandler(this.asistenciaToolStripMenuItem_Click);
-            // 
-            // permisoToolStripMenuItem
-            // 
-            this.permisoToolStripMenuItem.Name = "permisoToolStripMenuItem";
-            this.permisoToolStripMenuItem.Size = new System.Drawing.Size(180, 22);
-            this.permisoToolStripMenuItem.Text = "Permiso";
-            this.permisoToolStripMenuItem.Click += new System.EventHandler(this.permisoToolStripMenuItem_Click);
-            // 
-            // gestiónFaltasToolStripMenuItem
-            // 
-            this.gestiónFaltasToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
-            this.asistenciaToolStripMenuItem,
-            this.permisoToolStripMenuItem});
-            this.gestiónFaltasToolStripMenuItem.ForeColor = System.Drawing.Color.White;
-            this.gestiónFaltasToolStripMenuItem.Name = "gestiónFaltasToolStripMenuItem";
-            this.gestiónFaltasToolStripMenuItem.Size = new System.Drawing.Size(115, 20);
-            this.gestiónFaltasToolStripMenuItem.Text = "Gestión Asistencia";
-            this.gestiónFaltasToolStripMenuItem.Click += new System.EventHandler(this.gestiónFaltasToolStripMenuItem_Click);
-            // 
-            // mantenimientoExamenToolStripMenuItem
-            // 
-            this.mantenimientoExamenToolStripMenuItem.Name = "mantenimientoExamenToolStripMenuItem";
-            this.mantenimientoExamenToolStripMenuItem.Size = new System.Drawing.Size(197, 22);
-            this.mantenimientoExamenToolStripMenuItem.Text = "MantenimientoExamen";
-            // 
             // MDI_RRHH
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -618,10 +619,10 @@
             this.Controls.Add(this.menuStrip1);
             this.ForeColor = System.Drawing.SystemColors.ActiveCaption;
             this.MainMenuStrip = this.menuStrip1;
-            this.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
+            this.Margin = new System.Windows.Forms.Padding(2);
             this.Name = "MDI_RRHH";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
-            this.Text = "MDI_RRHH";
+            this.Text = "0901-21-4188 Joel López";
             this.WindowState = System.Windows.Forms.FormWindowState.Maximized;
             this.Load += new System.EventHandler(this.MDI_RRHH_Load);
             this.menuStrip1.ResumeLayout(false);

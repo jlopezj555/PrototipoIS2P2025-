@@ -7,3 +7,12 @@ C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesa
 C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.dll
 C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.pdb
 C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.CopyComplete
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Controlador_Capacitacion.dll
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Controlador_Capacitacion.pdb
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.dll
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\bin\Debug\Capa_Modelo_Capacitacion.pdb
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.csproj.CopyComplete
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.dll
+C:\INGENIERIA DE SOFTWARE\2DO PARCIAL IS\PrototipoIS2P2025-\Módulos\SGRRHH\CapacitacionYDesarrollo\Capa_Controlador_Capacitacion\obj\Debug\Capa_Controlador_Capacitacion.pdb
