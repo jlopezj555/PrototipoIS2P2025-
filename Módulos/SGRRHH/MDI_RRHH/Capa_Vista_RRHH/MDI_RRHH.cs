@@ -328,5 +328,11 @@ namespace Capa_Vista_RRHH
             Frm_Reporte_Evaluacion_Desempenio repo = new Frm_Reporte_Evaluacion_Desempenio();
             repo.Show();    
         }
+
+        private void mantenimientoExamenToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            MantenimientoExamen repo = new MantenimientoExamen();
+            repo.Show();
+        }
     }
 }
