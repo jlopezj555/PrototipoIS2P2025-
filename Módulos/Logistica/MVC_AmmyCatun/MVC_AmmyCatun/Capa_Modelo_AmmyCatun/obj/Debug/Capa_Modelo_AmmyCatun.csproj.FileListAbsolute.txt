@@ -1,0 +1,14 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.Shared.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.csproj.CopyComplete
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Modelo_AmmyCatun\obj\Debug\Capa_Modelo_AmmyCatun.pdb

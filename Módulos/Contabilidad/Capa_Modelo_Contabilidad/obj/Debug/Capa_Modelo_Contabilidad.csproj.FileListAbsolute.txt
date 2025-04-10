@@ -1,0 +1,6 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\bin\Debug\Capa_Modelo_Contabilidad.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\bin\Debug\Capa_Modelo_Contabilidad.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.pdb

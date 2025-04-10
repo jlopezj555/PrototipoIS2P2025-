@@ -1,0 +1,6 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.pdb

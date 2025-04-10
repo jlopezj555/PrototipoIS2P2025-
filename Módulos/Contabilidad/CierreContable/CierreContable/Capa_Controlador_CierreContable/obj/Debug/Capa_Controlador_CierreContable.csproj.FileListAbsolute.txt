@@ -1,0 +1,9 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\obj\Debug\Capa_Controlador_CierreContable.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\obj\Debug\Capa_Controlador_CierreContable.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\bin\Debug\Capa_Controlador_CierreContable.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\bin\Debug\Capa_Controlador_CierreContable.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\bin\Debug\Capa_Modelo_CierreContable.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\bin\Debug\Capa_Modelo_CierreContable.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\obj\Debug\Capa_Controlador_CierreContable.csproj.CopyComplete
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\obj\Debug\Capa_Controlador_CierreContable.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Contabilidad\CierreContable\CierreContable\Capa_Controlador_CierreContable\obj\Debug\Capa_Controlador_CierreContable.pdb

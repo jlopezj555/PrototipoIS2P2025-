@@ -1,0 +1,9 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Controlador_AmmyCatun.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Controlador_AmmyCatun.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\bin\Debug\Capa_Modelo_AmmyCatun.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.csproj.CopyComplete
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_AmmyCatun\MVC_AmmyCatun\Capa_Controlador_AmmyCatun\obj\Debug\Capa_Controlador_AmmyCatun.pdb

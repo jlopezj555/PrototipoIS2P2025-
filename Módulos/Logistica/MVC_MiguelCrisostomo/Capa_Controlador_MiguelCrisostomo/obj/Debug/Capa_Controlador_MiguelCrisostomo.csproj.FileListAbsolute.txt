@@ -1,0 +1,9 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Controlador_MiguelCrisostomo.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Controlador_MiguelCrisostomo.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\bin\Debug\Capa_Modelo_MiguelCrisostomo.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.csproj.CopyComplete
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\MVC_MiguelCrisostomo\Capa_Controlador_MiguelCrisostomo\obj\Debug\Capa_Controlador_MiguelCrisostomo.pdb

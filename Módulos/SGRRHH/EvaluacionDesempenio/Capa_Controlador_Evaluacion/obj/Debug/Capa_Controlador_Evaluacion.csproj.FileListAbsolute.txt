@@ -1,0 +1,9 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Controlador_Evaluacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Controlador_Evaluacion.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\bin\Debug\Capa_Modelo_Evaluacion.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.csproj.CopyComplete
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\SGRRHH\EvaluacionDesempenio\Capa_Controlador_Evaluacion\obj\Debug\Capa_Controlador_Evaluacion.pdb

@@ -1,0 +1,5 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\bin\Debug\Capa_Modelo_Liquidaciones.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Nominas\Liquidaciones_Empleados\Capa_Modelo_Liquidaciones\obj\Debug\Capa_Modelo_Liquidaciones.pdb

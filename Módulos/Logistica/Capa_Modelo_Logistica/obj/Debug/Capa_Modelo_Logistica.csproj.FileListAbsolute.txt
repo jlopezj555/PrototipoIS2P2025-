@@ -1,0 +1,6 @@
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\bin\Debug\Capa_Modelo_Logistica.pdb
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.csproj.AssemblyReference.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.csproj.CoreCompileInputs.cache
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.dll
+C:\INGENIERIA DE SOFTWARE\proyectois2k25\Codigo\Modulos\Logistica\Capa_Modelo_Logistica\obj\Debug\Capa_Modelo_Logistica.pdb
